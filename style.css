@@ -1,0 +1,11 @@
+body { background: #f4f29f; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 36px; display: flex; }
+.block-payment-0 { color: #4776d5; font-size: 18px; margin-bottom: 5px; }
+.block-uploader-1 { color: #22adb8; font-size: 17px; margin-bottom: 5px; }
+.block-helper-2 { color: #14d2f4; font-size: 16px; margin-bottom: 5px; }
+.block-config-3 { color: #97e79f; font-size: 21px; margin-bottom: 5px; }
+.block-session-4 { color: #869eff; font-size: 14px; margin-bottom: 5px; }
+.block-filter-5 { color: #49d6cf; font-size: 14px; margin-bottom: 5px; }
+.block-payment-6 { color: #dfe294; font-size: 17px; margin-bottom: 5px; }
+.block-user-7 { color: #5ae1a7; font-size: 13px; margin-bottom: 5px; }
+.block-search-8 { color: #ef2c0d; font-size: 14px; margin-bottom: 5px; }
